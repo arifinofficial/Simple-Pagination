@@ -1,0 +1,85 @@
+html, body{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: #000000;
+}
+
+table{
+  border: 1px solid #555555;
+}
+
+.lbl{
+  width:300px;
+}
+
+td{
+  border: 1px solid #555555;
+  width: 200px;
+  text-align: center;
+}
+
+.formku{
+  margin:auto;
+  display: inline-block;
+}
+
+.label{
+  width: 100px;
+  display: inline-block;
+}
+
+.center{
+  padding-top: 10px;
+  margin: auto;
+}
+
+.form-wrap{
+  display: block;
+}
+
+.txt-center{
+  text-align: center;
+}
+
+.paging{
+  color:#555554;
+}
+
+.paging a{
+  text-decoration: none;
+  color: #555554;
+}
+
+.but{
+  padding:0 10px;
+}
+
+.wrap{
+  min-height: 100%;
+  position: relative;
+  width: 1000px;
+  margin: auto;
+}
+
+section{
+  padding-bottom: 70px;
+}
+
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  background-color: #555554;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+
+}
+
+footer p {
+}
